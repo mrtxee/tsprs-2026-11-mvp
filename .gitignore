@@ -1,0 +1,8 @@
+# Игнорировать всё, кроме перечисленного ниже
+/*
+!.gitignore
+!README.md
+!docs/
+!reference/
+reference/*
+!reference/Функциональные-требования-к-ПО.md
